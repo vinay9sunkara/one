@@ -838,7 +838,7 @@
     <!-- Categories Section -->
     <section class="container">
         <div class="section-title">
-            <h2>Shop by Category</h2>
+            <h2>Choose your shopping by category</h2>
             <p>Browse through our wide range of products in different categories</p>
         </div>
         
